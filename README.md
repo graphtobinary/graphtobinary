@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey folks 👋
+
+- 🔭 I’m currently working on a Design System with React Native.
+- 🐣 I’m currently learning Tailwind and Typescript, so its T^2.
+- 💬 Ask me about React and React Native.
+- ⚡ Fun fact: I am a 🐨 !
+
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=graphtobinary&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <!--
 **graphtobinary/graphtobinary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
