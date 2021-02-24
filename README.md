@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img src="https://komarev.com/ghpvc/?username=graphtobinary&color=1DA1F2&style=for-the-badge" width="180px"/>
