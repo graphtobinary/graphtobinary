@@ -23,5 +23,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<img src="https://komarev.com/ghpvc/?username=graphtobinary&color=1DA1F2&style=for-the-badge" width="180px"/>
+ ![Visitor Count](https://profile-counter.glitch.me/{graphtobinary}/count.svg)
+<!-- <img src="https://komarev.com/ghpvc/?username=graphtobinary&color=1DA1F2&style=for-the-badge" width="180px"/>
+ -->
