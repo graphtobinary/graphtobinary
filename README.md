@@ -1,6 +1,6 @@
 ### Hey folks 👋
 
-- 🔭 I’m currently working on a Design System with React Native.
+- 🔭 Currently building a Web + Mobile App for [Rario](https://rario.com/).
 - 🐣 I’m currently learning Tailwind and Typescript, so its T^2.
 - 💬 Ask me about React and React Native.
 - ⚡ Fun fact: I am a 🐨 !
