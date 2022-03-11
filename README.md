@@ -32,4 +32,6 @@ Here are some ideas to get you started:
 
 ## Activity 30d
 
-[![Activity graph](https://activity-graph.herokuapp.com/graph?username=graphtobinary&bg_color=141321&color=a8fdf5&line=fd438c&point=f54d90&area=true&hide_border=true)]
+<p>
+<img src="https://activity-graph.herokuapp.com/graph?username=graphtobinary&bg_color=141321&color=a8fdf5&line=fd438c&point=f54d90&area=true&hide_border=true" alt="graphtobinary" />
+</p>
