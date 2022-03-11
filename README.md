@@ -4,10 +4,6 @@
 - 🐣 I’m currently learning Tailwind and Typescript, so its T^2.
 - 💬 Ask me about React and React Native.
 - ⚡ Fun fact: I am a 🐨 !
-
-
-![My Stats](https://github-readme-stats.vercel.app/api?username=graphtobinary&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
 <!--
 **graphtobinary/graphtobinary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,6 +19,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ![Visitor Count](https://profile-counter.glitch.me/{graphtobinary}/count.svg)
-<!-- <img src="https://komarev.com/ghpvc/?username=graphtobinary&color=1DA1F2&style=for-the-badge" width="180px"/>
- -->
+<!--  ![Visitor Count](https://profile-counter.glitch.me/{graphtobinary}/count.svg) -->
+## Stats
+
+
+<p>
+<img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=graphtobinary&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true" alt="graphtobinary" />
+</p>
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=graphtobinary&theme=radical&hide_border=true" alt="graphtobinary" />
+</p>
+
+## Activity 30d
+
+[![Activity graph](https://activity-graph.herokuapp.com/graph?username=graphtobinary&bg_color=141321&color=a8fdf5&line=fd438c&point=f54d90&area=true&hide_border=true)]
