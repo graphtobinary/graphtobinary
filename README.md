@@ -1,6 +1,6 @@
 ### Hey folks 👋
 
-- 🔭 Currently building a Web + Mobile App for [Rario](https://rario.com/).
+- 🔭 Currently building a Web + Mobile App for [Rario](https://rario.com/) + [GamesOye].
 - 🐣 I’m currently learning Tailwind and Typescript, so its T^2.
 - 💬 Ask me about React and React Native.
 - ⚡ Fun fact: I am a 🐨 !
